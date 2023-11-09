@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/codsoft-task-2/static/css/main.480ae336.css",
-    "main.js": "/codsoft-task-2/static/js/main.bf0b4cf9.js",
+    "main.js": "/codsoft-task-2/static/js/main.aef80239.js",
     "static/media/car14.png": "/codsoft-task-2/static/media/car14.b01e89385527076f2328.png",
     "static/media/motor11.png": "/codsoft-task-2/static/media/motor11.5ecd6df50080180aeacd.png",
     "static/media/bike9.png": "/codsoft-task-2/static/media/bike9.609a0946cf834ec85756.png",
@@ -95,10 +95,10 @@
     "static/media/star1.png": "/codsoft-task-2/static/media/star1.a1c24ce1ab5b52809539.png",
     "index.html": "/codsoft-task-2/index.html",
     "main.480ae336.css.map": "/codsoft-task-2/static/css/main.480ae336.css.map",
-    "main.bf0b4cf9.js.map": "/codsoft-task-2/static/js/main.bf0b4cf9.js.map"
+    "main.aef80239.js.map": "/codsoft-task-2/static/js/main.aef80239.js.map"
   },
   "entrypoints": [
     "static/css/main.480ae336.css",
-    "static/js/main.bf0b4cf9.js"
+    "static/js/main.aef80239.js"
   ]
 }
